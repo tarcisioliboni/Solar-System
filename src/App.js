@@ -1,9 +1,16 @@
 import React from 'react';
-import Header from './Header';
+import './App.css';
+import Header from './components/Header';
+import SolarSystem from './components/SolarSystem';
+import Missions from './components/Missions';
 
 function App() {
   return (
-    <Header />
+    <div>
+      <Header />
+      <SolarSystem />
+      <Missions />
+    </div>
   );
 }
 
