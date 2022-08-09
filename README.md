@@ -14,11 +14,10 @@ Neste projeto foi desenvolvido um modelo do sistema solar utilizando React! Ao u
 ## Instalando Dependências
 
 ```bash
-cd src/
 npm install
 ``` 
 ## Executando aplicação
 
 ```
-cd src/ && npm start
+npm start
 ```
