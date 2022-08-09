@@ -11,6 +11,10 @@ Neste projeto foi desenvolvido um modelo do sistema solar utilizando React! Ao u
 
 ---
 
+![](https://github.com/tarcisioliboni/Solar-System/blob/main/solarSystemGif.gif)
+
+---
+
 ## Instalando Dependências
 
 ```bash
