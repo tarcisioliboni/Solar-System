@@ -20,5 +20,5 @@ npm install
 ## Executando aplicação
 
 ```
-    cd src/ && npm start
+cd src/ && npm start
 ```
